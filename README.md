@@ -1,5 +1,8 @@
 # Fail2ban
 
+Fail2ban es una herramienta de código abierto que se utiliza para proteger a sus servidores Linux de la fuerza bruta, DDoS y otros ataques automatizados al monitorear los troncos de servicios para actividades maliciosas e identificar los ataques automaticados. Está escrito en el lenguaje de programación de Python.
+El Fail2ban utiliza expresiones regulares para escanear el servidor y el sistema de registro de la fuerza bruta, DDoS y otros ataques automatizados, y prohíbe ofender a IP durante un tiempo específico usando el firewall del sistema.
+
 Fail2ban bloquea IP ante antaques DDoS o fuerza bruta; Herramienta Linux para mitigar ataques;
 Disponible para Linux: Debian, CentOS, RedHat, .. util para configurar bloqueos temorales o incluir IP en lista negra o blanca;
 https://github.com/fail2ban/fail2ban
